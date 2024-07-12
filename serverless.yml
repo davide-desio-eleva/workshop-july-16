@@ -1,4 +1,4 @@
-service: my-api
+service: serverless-api-workshop-18-july
 frameworkVersion: '3'
 
 ## Use .env
